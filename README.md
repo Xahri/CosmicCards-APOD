@@ -1,3 +1,8 @@
+This is a project made using React and Nasa's APOD API, <br>
+Each day it shows a different image or photograph of our fascinating universe, <br>
+along with a brief explanation. <br>
+You can also generate a random image from a random day. <br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
