@@ -3,8 +3,7 @@ Each day it shows a different image or photograph of our fascinating universe, <
 along with a brief explanation. <br>
 You can also generate a random image from a random day. <br>
 
-Preview:<br>
-(https://cosmic-cards.netlify.app/)
+[Preview](https://cosmic-cards.netlify.app)
 <br>
 
 # Getting Started with Create React App
