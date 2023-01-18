@@ -4,7 +4,7 @@ along with a brief explanation. <br>
 You can also generate a random image from a random day. <br>
 
 Preview:<br>
-cosmic-cards.netlify.app
+(https://cosmic-cards.netlify.app/)
 <br>
 
 # Getting Started with Create React App
